@@ -1,0 +1,11 @@
+{
+  "name": "LifeRise — Personal Planner",
+  "short_name": "LifeRise",
+  "description": "A personal routine, habit, progress and reward planner.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b0e16",
+  "theme_color": "#10131d",
+  "icons": []
+}
